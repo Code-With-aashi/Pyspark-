@@ -12,7 +12,7 @@ Apache Spark is written in Scala programming language. PySpark has been released
 * Automating the code
 # Different Types of SQL JOINs
 Here are the different types of the JOINs in SQL:
-
+![sql-joins](https://user-images.githubusercontent.com/41945372/113957252-7f87d480-983c-11eb-88c7-5a8ce259ac96.png)
 * (INNER) JOIN: Returns records that have matching values in both tables
 * LEFT (OUTER) JOIN: Returns all records from the left table, and the matched records from the right table
 * RIGHT (OUTER) JOIN: Returns all records from the right table, and the matched records from the left table
